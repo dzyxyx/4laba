@@ -80,20 +80,22 @@
 
 1) OR:
 
+![image](https://github.com/dzyxyx/4laba/assets/152580474/95b55049-986f-41b2-b183-f92ba31ba29b)
 
+2) AND:
+
+![image](https://github.com/dzyxyx/4laba/assets/152580474/63835cbb-81c2-4821-b08d-8977ad5d3f83)
+
+3) NAND:
+
+![image](https://github.com/dzyxyx/4laba/assets/152580474/16f826d4-c61c-45f6-ad8d-f124d6a713c4)
+
+4) XOR:
+
+![image](https://github.com/dzyxyx/4laba/assets/152580474/f64cb72e-5547-41fd-ac35-a18d955073de)
 
 ## Выводы
-
-Абзац умных слов о том, что было сделано и что было узнано.
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+При выполнении данной лабораторной работы я разобрался на примере логических операций с работой перцептрона и смог отобразить зависимость количества ошибок при попытках обучения в разных эпохах.
 
 ## Powered by
 
